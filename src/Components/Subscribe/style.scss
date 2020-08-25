@@ -1,0 +1,17 @@
+.subscribe {
+  background: #73d5fc;
+  padding: 40px 275px;
+  @media (min-width: 922px) {
+    padding: 40px 100px;
+  }
+  @media (max-width: 922px) {
+    padding: 40px 10px;
+  }
+  .row > div h2 {
+    text-align: center;
+    font-weight: 500;
+    &:last-of-type {
+      color: #0f85b8;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+.featuer {
+  padding: 40px 0;
+  background: #ecf6ff;
+  .row > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    @media (max-width: 768px) {
+      margin-bottom: 90px;
+    }
+    .inner {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      border: #1da8d6 solid 7px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      box-shadow: 0 0 10px 10px #53caee;
+      svg {
+        font-size: 36px;
+      }
+    }
+    h5 {
+      width: 100%;
+    }
+  }
+}

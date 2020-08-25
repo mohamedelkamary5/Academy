@@ -1,0 +1,34 @@
+.customers {
+  padding: 50px 0;
+  h2 {
+    font-weight: 700;
+    span {
+      color: #1da8d6;
+    }
+  }
+  p.p-title {
+    &:first-of-type {
+      font-size: 15px;
+      font-weight: 500;
+      margin-top: 25px;
+      padding: 0 120px;
+      @media (max-width: 768px) {
+        padding: 0 20px;
+      }
+    }
+  }
+  .item {
+    padding: 20px;
+    .row {
+      background: #e7e7e7;
+      padding: 11px 7px;
+      border-radius: 20px;
+      margin: 15px;
+    }
+  }
+  img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+}

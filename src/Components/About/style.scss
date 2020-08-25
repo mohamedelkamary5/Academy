@@ -1,0 +1,43 @@
+.about {
+  background: url("./../../Images/pexels.jpeg");
+  height: 700px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  p {
+    &:first-of-type {
+      font-size: 27px;
+      font-weight: 300;
+    }
+    &:last-of-type {
+      font-size: 17px;
+      font-weight: 300;
+      margin: 20px 60px;
+    }
+  }
+  .h1 {
+    font-weight: bold;
+    font-size: 50px;
+    @media (max-width: 768px) {
+      font-size: 40px;
+    }
+    &:last-of-type {
+      color: #11b2ec;
+    }
+  }
+  button {
+    background: #0eaaec !important;
+    margin-right: 100px !important;
+    margin-bottom: 40px !important;
+    color: #fff !important;
+    font-weight: bolder !important;
+    box-shadow: 0px 0px 3px 2px #0eaaec;
+    @media (max-width: 600px) {
+      margin-right: 30px !important;
+    }
+  }
+}

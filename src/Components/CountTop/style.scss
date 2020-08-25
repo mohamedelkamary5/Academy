@@ -1,0 +1,17 @@
+.app {
+  background: #07adf1;
+  color: #fff;
+  padding: 8px 0;
+  .container {
+    @media (max-width: 768px) {
+      max-width: 100% !important;
+    }
+    // @media (min-width: 576px){}
+  }
+  span {
+    font-size: 13.5px;
+  }
+  svg {
+    margin-right: 5px;
+  }
+}

@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-3">
-              <h4 className="mb-4">Aboud Acodemy</h4>
+              <h4 className="mb-4">About Acodemy</h4>
               <h3 className="mb-0">OUR ACADMY</h3>
               <p>Lorem Ipsum is simply.</p>
               <p>

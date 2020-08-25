@@ -62,7 +62,9 @@ const Footer = () => {
                     <img src="/Images/25.jpg" alt="" />
                   </div>
                   <div>
-                    <p className="pr-5">Lorem Ipsum is simply dummy text</p>
+                    <p className="pr-5">
+                      Lorem Ipsum is simply dummy text of printing
+                    </p>
                   </div>
                 </div>
                 <div className="parent mb-3">
@@ -70,7 +72,9 @@ const Footer = () => {
                     <img src="/Images/25.jpg" alt="" />
                   </div>
                   <div>
-                    <p className="pr-5">Lorem Ipsum is simply dummy text</p>
+                    <p className="pr-5">
+                      Lorem Ipsum is simply dummy text of printing
+                    </p>
                   </div>
                 </div>
                 <div className="parent mb-3">
@@ -78,7 +82,9 @@ const Footer = () => {
                     <img src="/Images/25.jpg" alt="" />
                   </div>
                   <div>
-                    <p className="pr-5">Lorem Ipsum is simply dummy text</p>
+                    <p className="pr-5">
+                      Lorem Ipsum is simply dummy text of printing
+                    </p>
                   </div>
                 </div>
                 <div className="parent mb-3">
@@ -86,7 +92,9 @@ const Footer = () => {
                     <img src="/Images/25.jpg" alt="" />
                   </div>
                   <div>
-                    <p className="pr-5">Lorem Ipsum is simply dummy text</p>
+                    <p className="pr-5">
+                      Lorem Ipsum is simply dummy text of printing
+                    </p>
                   </div>
                 </div>
               </div>

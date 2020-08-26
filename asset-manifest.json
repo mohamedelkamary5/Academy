@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Academy/static/css/main.080cd321.chunk.css",
+    "main.css": "/Academy/static/css/main.0df57639.chunk.css",
     "main.js": "/Academy/static/js/main.dd5e10eb.chunk.js",
     "main.js.map": "/Academy/static/js/main.dd5e10eb.chunk.js.map",
     "runtime-main.js": "/Academy/static/js/runtime-main.b280fc2c.js",
@@ -9,10 +9,10 @@
     "static/js/2.46fd1bd0.chunk.js": "/Academy/static/js/2.46fd1bd0.chunk.js",
     "static/js/2.46fd1bd0.chunk.js.map": "/Academy/static/js/2.46fd1bd0.chunk.js.map",
     "index.html": "/Academy/index.html",
-    "precache-manifest.ff6b0c9f4d4af47f2e4ba46447b7c6cd.js": "/Academy/precache-manifest.ff6b0c9f4d4af47f2e4ba46447b7c6cd.js",
+    "precache-manifest.d5ae3c10cef201bcfa9978bfceea3e3c.js": "/Academy/precache-manifest.d5ae3c10cef201bcfa9978bfceea3e3c.js",
     "service-worker.js": "/Academy/service-worker.js",
     "static/css/2.3d876496.chunk.css.map": "/Academy/static/css/2.3d876496.chunk.css.map",
-    "static/css/main.080cd321.chunk.css.map": "/Academy/static/css/main.080cd321.chunk.css.map",
+    "static/css/main.0df57639.chunk.css.map": "/Academy/static/css/main.0df57639.chunk.css.map",
     "static/js/2.46fd1bd0.chunk.js.LICENSE.txt": "/Academy/static/js/2.46fd1bd0.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/Academy/static/media/pexels.423d6cc5.jpeg",
     "static/media/App.scss": "/Academy/static/media/slick.f97e3bbf.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.b280fc2c.js",
     "static/css/2.3d876496.chunk.css",
     "static/js/2.46fd1bd0.chunk.js",
-    "static/css/main.080cd321.chunk.css",
+    "static/css/main.0df57639.chunk.css",
     "static/js/main.dd5e10eb.chunk.js"
   ]
 }
